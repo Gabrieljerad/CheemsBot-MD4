@@ -69,8 +69,8 @@ global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/Gabrieljerad/CheemsBot-MD4/blob/master/settings.js' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Gabby" //ur sticker watermark author
+global.packname = "Gabby " //ur sticker watermark packname
+global.author = "Gabby" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -111,7 +111,7 @@ global.mess = {
     owner: 'Hii ni ya Gabby pekee!',
     group: 'Msee hii ni ya Group!',
     private: 'Hii ni ya pc come baby!',
-    bot: 'Hii ni yangu',
+    bot: 'Hii command ni yangu',
     wait: 'chill kiasi...',
     linkm: 'Nipe link!',
     error: 'Error!!',
